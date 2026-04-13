@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env bash
 splays information about subdomains
 # Usage: ./0-world_wide_web domain [subdomain]
 # shellcheck disable=SC2086
